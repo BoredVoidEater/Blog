@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-DE'
+title = 'TEST'
+theme = 'paperMod'
+
