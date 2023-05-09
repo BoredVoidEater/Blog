@@ -16,7 +16,7 @@ Digitale Kriegsführung oder "Cyberkrieg" bezieht sich auf den Einsatz von Techn
 Wie funktioniert digitaler Krieg?
 ---------------------------------
 
-Digitale Kriegsführung kann auf verschiedene Arten durchgeführt werden, darunter:
+Digitale Kriegsführung kann auf verschiedene Arten durchgeführt werden, häufige Angriffsmethoden sind::
 
 -   **Phishing**: Der Versuch, Zugang zu sensiblen Informationen oder Systemen zu erhalten, indem man sich als vertrauenswürdige Quelle ausgibt und Benutzer dazu bringt, ihre Login-Daten oder andere Daten preiszugeben.
 
@@ -27,7 +27,7 @@ Digitale Kriegsführung kann auf verschiedene Arten durchgeführt werden, darunt
 -   **Denial-of-Service (DoS)**: Eine Methode, um einen Service oder eine Website zu überlasten oder zu blockieren, indem man eine Vielzahl von Anfragen sendet, um das System zu überfordern.
 
 
--   **Social Engineering**: Eine Methode, um menschliche Schwächen auszunutzen, um Zugriff auf Informationen oder Systeme zu erlangen. Beispiele dafür sind Phishing und Spear-Phishing.
+-   **Social Engineering**: Eine Methode, um menschliche Schwächen auszunutzen, um Zugriff auf Informationen oder Systeme zu bekommen.
 
 
 Digitale Kriegsführung kann auch durch den Einsatz von "Bot-Netzwerken" oder "Advanced Persistent Threats" (APTs) durchgeführt werden. Bot-Netzwerke bestehen aus einer Gruppe von infizierten Computern, die gemeinsam für einen Angriff eingesetzt werden können, während APTs speziell entwickelte Angriffe sind, die sich über einen längeren Zeitraum hinziehen und darauf abzielen, Zugang zu sensiblen Informationen zu erlangen.
@@ -35,4 +35,4 @@ Digitale Kriegsführung kann auch durch den Einsatz von "Bot-Netzwerken" oder "A
 Fazit
 -----
 
-Digitale Kriegsführung ist zu einem wichtigen Thema geworden, da immer mehr Länder auf Technologie und digitale Mittel angewiesen sind. Es ist wichtig, dass Länder ihre Systeme und Infrastruktur schützen und sich auf potenzielle Angriffe vorbereiten, um Schäden zu minimieren. Gleichzeitig sollten jedoch auch Anstrengungen unternommen werden, um internationale Abkommen und Normen zu schaffen, um digitale Kriegsführung zu verhindern und Konflikte auf friedliche Weise zu lösen.
+Digitale Kriegsführung ist zu einem wichtigen Thema geworden, da immer mehr Länder auf Technologie und digitale Mittel angewiesen sind. Es ist wichtig, dass Länder für ihre Systeme und Infrastruktur Verantwortung übernehmen und sich auf potenzielle Angriffe vorbereiten, um Schäden zu minimieren. Gleichzeitig sollten jedoch auch Anstrengungen unternommen werden, um internationale Abkommen und Normen zu schaffen, um digitale Kriegsführung zu verhindern und Konflikte auf friedliche Weise zu lösen.
