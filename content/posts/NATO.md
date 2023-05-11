@@ -6,7 +6,7 @@ cover:
     caption: https://i1.wp.com/www.opinionsthoughts.com/wp-content/uploads/2017/02/NATO-Seal_large.jpg?fit=1000%2C667&ssl=1
 ---
 Cyberangriff in Estland
--------------------------------------------------------------
+-----------------------
 2007 gab es in Estland einen Cyberangriff, woraufhin Estland die NATO um Hilfe bat. Sie begründeten dies mit Artikel 5 des Nordatlantikvertrags, welcher besagt, dass ein Angriff auf ein Mitgliedsland ein Angriff auf die gesamte Allianz ist und somit ein militärisches Eingreifen erforderlich machen kann. Es war das erste Mal in der Geschichte der NATO, dass ein Mitgliedsstaat offiziell um Notfallhilfe in Bezug auf die Verteidigung seiner digitalen Vermögenswerte bat. Daraufhin kam zwar ein bisschen Hilfe von der Nato, jedoch nicht viel, da der Angriff nicht als bewaffneter Angriff angesehen wurde.
 
 Maßnahmen

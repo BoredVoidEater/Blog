@@ -2,13 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'de-DE'
 title = 'MKU Blog'
 theme = 'paperMod'
-paginate = 3
 
-
-[params.cover]
-hiddenInList = false
-hidden = false
-hiddenInSingle = false
 
 [params]
 TocOpen = true
