@@ -11,8 +11,8 @@ In unserer zunehmend digitalisierten Welt nehmen Cyberangriffe und Cyberkriege z
 
 Wenn es jedoch um die technischen Aspekte von Cyberangriffen und Cyberkriegen geht, scheint das Wissen und Bewusstsein der Befragten zu fehlen. Eine weiterer Teil der Umfrage zu drei derzeit bekannten Cyberwaffen ergab, dass nur ~20% der Befragten diese kannten.
 
-Fazit
------
+Meine Meinung
+-------------
 
 Es ist wichtig zu erkennen, dass es nicht nur eine einzelne Partei gibt, die für die Abwehr von Cyberangriffen und Cyberkriegen verantwortlich ist. Eine Zusammenarbeit zwischen Regierung, Business-Organisationen und der Zivilgesellschaft ist notwendig, um unsere digitale Infrastruktur zu schützen. Es ist auch wichtig, das Bewusstsein für Cyberkrieg und Cyberangriffe zu erhöhen, um das Wissen der Bevölkerung zu verbessern und somit besser vorbereitet zu sein.
 
