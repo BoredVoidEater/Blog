@@ -23,8 +23,8 @@ In Angriffen durch Nationenstaaten ist die Lage noch komplexer. Im Allgemeinen h
 
 Es gibt auch Fragen bezüglich der Art der Antwort der Regierung. Sind solche Angriffe Spionage, ob gegen den privaten Sektor oder die Regierung gerichtet? Wenn ja, würde die Antwort normalerweise die Einbeziehung von Konter-Geheimdiensteinheiten und juristischen Verfahren umfassen. Aber wenn wir sie als physische Eindringlinge betrachten, vergleichbar mit Aufklärungsflugzeugen, ist eine direkte Antwort - sowohl auf Cyber- als auch auf physischer Ebene - gerechtfertigt?
 
-Fazit
------
+Meine Meinung
+-------------
 
 Bellovin schlussfolgert, dass es keine einfachen Antworten auf diese Fragen gibt. Er betont, dass eine internationale Lösung erforderlich ist, da es im Cyberspace keine 12-Meilen-Grenze gibt. Eine Diskussion über die Verantwortung für Cybersicherheit muss so bald wie möglich beginnen.
 
