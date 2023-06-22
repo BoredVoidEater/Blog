@@ -15,8 +15,8 @@ Maßnahmen
 Aufgrund dieser Vorfälle hat die NATO Maßnahmen ergriffen, um die Sicherheitsstrategie in Bezug auf Cyberangriffe zu verbessern. Ein Beispiel hierfür ist das Cooperative Cyber Defense Centre of Excellence in Tallinn, Estland, sowie die neue Cyber Defense Management Authority in Brüssel, die darauf abzielt, die Fähigkeiten zur Cyberverteidigung zu zentralisieren.
 
 
-Fazit
------
+Meine Meinung
+-------------
 
 Es ist von entscheidender Bedeutung, dass die NATO-Mitgliedstaaten bei zukünftigen Cyberangriffen eine umfassende und klare Regelung zur Beurteilung der Verantwortung von Staaten haben. Ohne eine solche Regelung ist es schwierig, Beweise zu sammeln, um die Verantwortung von Staaten bei einem Angriff nachzuweisen.
 
