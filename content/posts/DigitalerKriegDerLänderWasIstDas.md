@@ -33,6 +33,6 @@ Digitale Kriegsführung kann auf verschiedene Arten durchgeführt werden, häufi
 Digitale Kriegsführung kann auch durch den Einsatz von "Bot-Netzwerken" oder "Advanced Persistent Threats" (APTs) durchgeführt werden. Bot-Netzwerke bestehen aus einer Gruppe von infizierten Computern, die gemeinsam für einen Angriff eingesetzt werden können, während APTs speziell entwickelte Angriffe sind, die sich über einen längeren Zeitraum hinziehen und darauf abzielen, Zugang zu sensiblen Informationen zu erlangen.
 
 Meine Meinung
------
+-------------
 
 Digitale Kriegsführung ist zu einem wichtigen Thema geworden, da immer mehr Länder auf Technologie und digitale Mittel angewiesen sind. Es ist wichtig, dass Länder für ihre Systeme und Infrastruktur Verantwortung übernehmen und sich auf potenzielle Angriffe vorbereiten, um Schäden zu minimieren. Gleichzeitig sollten jedoch auch Anstrengungen unternommen werden, um internationale Abkommen und Normen zu schaffen, um digitale Kriegsführung zu verhindern und Konflikte auf friedliche Weise zu lösen.
