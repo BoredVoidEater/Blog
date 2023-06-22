@@ -27,8 +27,8 @@ Verantwortung übernehmen bedeutet, dass man sich seiner Handlungen bewusst ist 
 
 Außerdem sollte man sich seiner Verantwortung bewusst sein und sich fragen, ob man bereit ist, diese Verantwortung zu übernehmen. Wenn man zum Beispiel einen Job annimmt, sollte man sich darüber im Klaren sein, welche Aufgaben und Verantwortungen damit verbunden sind.
 
-Fazit
------
+Meine Meinung
+-------------
 
 Verantwortung ist ein wichtiger Begriff, der uns im Alltag begleitet. Es geht darum, für sein Handeln und dessen Folgen einzustehen und dafür zu sorgen, dass diese Folgen positiv sind. Verantwortung zu übernehmen bedeutet, bewusst zu handeln und sich der Konsequenzen des eigenen Handelns bewusst zu sein.
 
